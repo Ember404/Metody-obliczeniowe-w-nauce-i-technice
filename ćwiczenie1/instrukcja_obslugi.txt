@@ -1,0 +1,1 @@
+Folder zadanie1 nalezy otworzyc jako projekt przy pomocy programu CLion i nastepnie uruchomic plik main.cpp

@@ -1,0 +1,4 @@
+-folder badeja_2b otworzyc jako projekt przy pomocy programu PyCharm
+-uruchomic
+-podac, dla jakiej liczby wezlów chcemy liczyc
+-podac sposób rozmieszczenia wezlów

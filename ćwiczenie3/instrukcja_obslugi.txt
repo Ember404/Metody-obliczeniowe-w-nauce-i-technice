@@ -1,0 +1,4 @@
+-folder badeja_3 otworzyc jako projekt przy pomocy programu PyCharm
+-uruchomic
+-podac dane o które prosi program 
+(komunikaty z prosbami wyswietla na standadowym wyjsciu)
